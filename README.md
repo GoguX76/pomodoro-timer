@@ -1,6 +1,6 @@
 # 🍅 POMODORO TIMER
 
-Un timer pomodoro simple pero eficiente para la terminal, construido en Python con .
+Un timer pomodoro simple pero eficiente para la terminal, construido en Python con Rich
 
 ## ✨ Características
 
